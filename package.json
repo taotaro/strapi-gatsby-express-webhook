@@ -1,0 +1,28 @@
+{
+  "name": "blog-webhook",
+  "version": "1.0.0",
+  "description": "simple gatsby strapi internal webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trace86/strapi-gatsby-express-webhook.git"
+  },
+  "keywords": [
+    "strapi",
+    "gatsby",
+    "webhook"
+  ],
+  "author": "Nelson Wong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trace86/strapi-gatsby-express-webhook/issues"
+  },
+  "homepage": "https://github.com/trace86/strapi-gatsby-express-webhook#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "^4.17.1"
+  }
+}
